@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello 
 123
 dfkdhg
 
+=======
+hello this is important....
+>>>>>>> branch1
